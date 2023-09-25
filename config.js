@@ -4,33 +4,33 @@ import { fileURLToPath } from 'url'
 
 /*============== INFO OWNER ==============*/
 global.link = {
-	ig: 'https://instagram.com/_xwby_',
+	ig: 'https://instagram.com/Justto.39_',
 	gh: 'https://linkbio.co/VLShop',
-	gc: 'https://chat.whatsapp.com/FnqsUPu0FsTInf5UFJ9yLe',
+	gc: 'https://chat.whatsapp.com/I1ucFecSWvVFfe2X0HSyCd',
 	web: 'https://linkbio.co/VLShop',
 	nh: 'https://nhentai.net/g/365296/'
 }
 
 /*============== PAYMENT ==============*/
 global.pay = {
-	dana: '082389924037',
-	ovo: '082389924037',
-	gopay: '082389924037',
-	pulsa: '082389924037',
+	dana: '0881024233402',
+	ovo: '0881024233402',
+	gopay: '0881024233402',
+	pulsa: '0881024233402',
 	qris: 'https://telegra.ph/file/636b0b1730da1923dce35.jpg'
 }
 
 /*============== NOMOR ==============*/
 global.info = {
-	nomorbot: '6283896757956',
-	nomorown: '6282389924037',
-	namebot: 'VynaaMD 10.9',
-	nameown: 'Vynα Vαlerié.'
+	nomorbot: '6282123611559',
+	nomorown: '62881024233402',
+	namebot: 'Shiroineタ',
+	nameown: 'Shiroine'
 }
 
 /*============== STAFF ==============*/
 global.owner = [
-    ['6282389924037', 'Vynα Vαlerié', 'true']
+    ['62881024233402', 'Shiroine', 'true']
     // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -54,13 +54,13 @@ global.APIKeys = {
     'https://api.zahwazein.xyz': 'zenzkey_8bb60993ae',
     'https://api.xteam.xyz': 'cristian9407',
     'https://api.lolhuman.xyz': 'fafbc90143ed7cfe7a2907f9',
-    'https://api.itsrose.life': '_',
+    'https://api.itsrose.life': 'Rk-282c347453ab9d72e759efba_free_tier',
     'https://xzn.wtf' : 'vynaamd'
 }
 
 /*============== WATERMARK ==============*/
-global.wm = '© VynaaMD 10.9' //Main Watermark
-global.author = 'Vynα Vαlerié.'
+global.wm = 'Shiroineタ' //Main Watermark
+global.author = 'Shiroineタ'
 
 /*============== TEXT ==============*/
 global.wait = '_In Progress_, _Tunggu Ya kak..._'
